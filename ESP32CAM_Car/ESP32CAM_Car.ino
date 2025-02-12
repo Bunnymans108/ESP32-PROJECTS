@@ -1,14 +1,5 @@
-//Viral Science www.youtube.com/c/viralscience  www.viralsciencecreativity.com
-//ESP32 Camera Surveillance Car
-
 #include "esp_camera.h"
 #include <WiFi.h>
-
-//
-// WARNING!!! Make sure that you have either selected ESP32 Wrover Module,
-//            or another board which has PSRAM enabled
-//
-// Adafruit ESP32 Feather
 
 // Select camera model
 //define CAMERA_MODEL_WROVER_KIT
